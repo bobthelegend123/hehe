@@ -104,29 +104,29 @@ analytics:
 # Site Author
 author:
   name             : "XinRui"
-  avatar           : "/assets/images/doraemon 2.png"
+#   avatar           : "/assets/images/doraemon 2.png"
   bio              : "fisik is laife"
   location         : "Somewhere"
 #   email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "licynric@gmail.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "mailto:licynric@gmail.com"
+#     - label: "Website"
+#       icon: "fas fa-fw fa-link"
+#       # url: "https://your-website.com"
+#     - label: "Twitter"
+#       icon: "fab fa-fw fa-twitter-square"
+#       # url: "https://twitter.com/"
+#     - label: "Facebook"
+#       icon: "fab fa-fw fa-facebook-square"
+#       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/bobthelegend123ins"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://www.instagram.com/xinrui.li.7/"
 
 # Site Footer
 footer:
