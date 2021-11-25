@@ -106,7 +106,7 @@ author:
   name             : "XinRui"
   avatar           : "/assets/images/doraemon 2.png"
   bio              : "fisik is laife"
-  location         : "Somewhere"
+  location         : "Probably on earth"
 #   email            : 
   links:
     - label: "Email"
@@ -123,7 +123,7 @@ author:
 #       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/bobthelegend123ins"
+      url: "https://github.com/bobthelegend123"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/xinrui.li.7/"
